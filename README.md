@@ -5,4 +5,4 @@ Link of the paper: https://ui.adsabs.harvard.edu/abs/2020arXiv201200257S/abstrac
 
 
 Result:
-! (crowd.jpeg)
+![image](https://github.com/yibiaojason/A-Fast-implemetation-of-Confluence/blob/main/crowd.jpeg)
